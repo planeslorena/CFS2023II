@@ -1,5 +1,3 @@
-
-
 class Alumno {
     private nombre: string;
     private dni: number;
